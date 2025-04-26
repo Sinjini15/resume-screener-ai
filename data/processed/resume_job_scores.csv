@@ -1,0 +1,226 @@
+resume_name,job_role,job_level,match_score,skills_match_pct,experience_score,education_score
+SWE Candidate 1,Machine Learning Engineer,Mid-level,37.5,25.0,50,100
+SWE Candidate 1,Data Scientist,Entry-level,47.5,25.0,100,100
+SWE Candidate 1,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+SWE Candidate 1,Cloud/DevOps Engineer,Mid-level,37.5,25.0,50,100
+SWE Candidate 1,Software Engineer,Entry-level,65.0,50.0,100,100
+SWE Candidate 2,Machine Learning Engineer,Mid-level,37.5,25.0,50,100
+SWE Candidate 2,Data Scientist,Entry-level,47.5,25.0,100,100
+SWE Candidate 2,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+SWE Candidate 2,Cloud/DevOps Engineer,Mid-level,37.5,25.0,50,100
+SWE Candidate 2,Software Engineer,Entry-level,65.0,50.0,100,100
+SWE Candidate 3,Machine Learning Engineer,Mid-level,37.5,25.0,50,100
+SWE Candidate 3,Data Scientist,Entry-level,47.5,25.0,100,100
+SWE Candidate 3,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+SWE Candidate 3,Cloud/DevOps Engineer,Mid-level,37.5,25.0,50,100
+SWE Candidate 3,Software Engineer,Entry-level,65.0,50.0,100,100
+SWE Candidate 4,Machine Learning Engineer,Mid-level,37.5,25.0,50,100
+SWE Candidate 4,Data Scientist,Entry-level,47.5,25.0,100,100
+SWE Candidate 4,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+SWE Candidate 4,Cloud/DevOps Engineer,Mid-level,37.5,25.0,50,100
+SWE Candidate 4,Software Engineer,Entry-level,65.0,50.0,100,100
+SWE Candidate 5,Machine Learning Engineer,Mid-level,37.5,25.0,50,100
+SWE Candidate 5,Data Scientist,Entry-level,47.5,25.0,100,100
+SWE Candidate 5,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+SWE Candidate 5,Cloud/DevOps Engineer,Mid-level,37.5,25.0,50,100
+SWE Candidate 5,Software Engineer,Entry-level,65.0,50.0,100,100
+SWE Candidate 6,Machine Learning Engineer,Mid-level,37.5,25.0,50,100
+SWE Candidate 6,Data Scientist,Entry-level,47.5,25.0,100,100
+SWE Candidate 6,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+SWE Candidate 6,Cloud/DevOps Engineer,Mid-level,37.5,25.0,50,100
+SWE Candidate 6,Software Engineer,Entry-level,65.0,50.0,100,100
+SWE Candidate 7,Machine Learning Engineer,Mid-level,37.5,25.0,50,100
+SWE Candidate 7,Data Scientist,Entry-level,47.5,25.0,100,100
+SWE Candidate 7,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+SWE Candidate 7,Cloud/DevOps Engineer,Mid-level,37.5,25.0,50,100
+SWE Candidate 7,Software Engineer,Entry-level,65.0,50.0,100,100
+SWE Candidate 8,Machine Learning Engineer,Mid-level,37.5,25.0,50,100
+SWE Candidate 8,Data Scientist,Entry-level,47.5,25.0,100,100
+SWE Candidate 8,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+SWE Candidate 8,Cloud/DevOps Engineer,Mid-level,37.5,25.0,50,100
+SWE Candidate 8,Software Engineer,Entry-level,65.0,50.0,100,100
+SWE Candidate 9,Machine Learning Engineer,Mid-level,37.5,25.0,50,100
+SWE Candidate 9,Data Scientist,Entry-level,47.5,25.0,100,100
+SWE Candidate 9,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+SWE Candidate 9,Cloud/DevOps Engineer,Mid-level,37.5,25.0,50,100
+SWE Candidate 9,Software Engineer,Entry-level,65.0,50.0,100,100
+SWE Candidate 10,Machine Learning Engineer,Mid-level,37.5,25.0,50,100
+SWE Candidate 10,Data Scientist,Entry-level,47.5,25.0,100,100
+SWE Candidate 10,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+SWE Candidate 10,Cloud/DevOps Engineer,Mid-level,37.5,25.0,50,100
+SWE Candidate 10,Software Engineer,Entry-level,65.0,50.0,100,100
+DS Candidate 1,Machine Learning Engineer,Mid-level,47.5,25.0,100,100
+DS Candidate 1,Data Scientist,Entry-level,82.5,75.0,100,100
+DS Candidate 1,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+DS Candidate 1,Cloud/DevOps Engineer,Mid-level,30.0,0.0,100,100
+DS Candidate 1,Software Engineer,Entry-level,47.5,25.0,100,100
+DS Candidate 2,Machine Learning Engineer,Mid-level,47.5,25.0,100,100
+DS Candidate 2,Data Scientist,Entry-level,82.5,75.0,100,100
+DS Candidate 2,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+DS Candidate 2,Cloud/DevOps Engineer,Mid-level,30.0,0.0,100,100
+DS Candidate 2,Software Engineer,Entry-level,47.5,25.0,100,100
+DS Candidate 3,Machine Learning Engineer,Mid-level,47.5,25.0,100,100
+DS Candidate 3,Data Scientist,Entry-level,82.5,75.0,100,100
+DS Candidate 3,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+DS Candidate 3,Cloud/DevOps Engineer,Mid-level,30.0,0.0,100,100
+DS Candidate 3,Software Engineer,Entry-level,47.5,25.0,100,100
+DS Candidate 4,Machine Learning Engineer,Mid-level,47.5,25.0,100,100
+DS Candidate 4,Data Scientist,Entry-level,82.5,75.0,100,100
+DS Candidate 4,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+DS Candidate 4,Cloud/DevOps Engineer,Mid-level,30.0,0.0,100,100
+DS Candidate 4,Software Engineer,Entry-level,47.5,25.0,100,100
+DS Candidate 5,Machine Learning Engineer,Mid-level,47.5,25.0,100,100
+DS Candidate 5,Data Scientist,Entry-level,82.5,75.0,100,100
+DS Candidate 5,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+DS Candidate 5,Cloud/DevOps Engineer,Mid-level,30.0,0.0,100,100
+DS Candidate 5,Software Engineer,Entry-level,47.5,25.0,100,100
+DS Candidate 6,Machine Learning Engineer,Mid-level,47.5,25.0,100,100
+DS Candidate 6,Data Scientist,Entry-level,82.5,75.0,100,100
+DS Candidate 6,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+DS Candidate 6,Cloud/DevOps Engineer,Mid-level,30.0,0.0,100,100
+DS Candidate 6,Software Engineer,Entry-level,47.5,25.0,100,100
+DS Candidate 7,Machine Learning Engineer,Mid-level,47.5,25.0,100,100
+DS Candidate 7,Data Scientist,Entry-level,82.5,75.0,100,100
+DS Candidate 7,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+DS Candidate 7,Cloud/DevOps Engineer,Mid-level,30.0,0.0,100,100
+DS Candidate 7,Software Engineer,Entry-level,47.5,25.0,100,100
+DS Candidate 8,Machine Learning Engineer,Mid-level,47.5,25.0,100,100
+DS Candidate 8,Data Scientist,Entry-level,82.5,75.0,100,100
+DS Candidate 8,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+DS Candidate 8,Cloud/DevOps Engineer,Mid-level,30.0,0.0,100,100
+DS Candidate 8,Software Engineer,Entry-level,47.5,25.0,100,100
+DS Candidate 9,Machine Learning Engineer,Mid-level,47.5,25.0,100,100
+DS Candidate 9,Data Scientist,Entry-level,82.5,75.0,100,100
+DS Candidate 9,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+DS Candidate 9,Cloud/DevOps Engineer,Mid-level,30.0,0.0,100,100
+DS Candidate 9,Software Engineer,Entry-level,47.5,25.0,100,100
+DS Candidate 10,Machine Learning Engineer,Mid-level,47.5,25.0,100,100
+DS Candidate 10,Data Scientist,Entry-level,82.5,75.0,100,100
+DS Candidate 10,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+DS Candidate 10,Cloud/DevOps Engineer,Mid-level,30.0,0.0,100,100
+DS Candidate 10,Software Engineer,Entry-level,47.5,25.0,100,100
+ML Engineer Candidate 1,Machine Learning Engineer,Mid-level,55.0,50.0,50,100
+ML Engineer Candidate 1,Data Scientist,Entry-level,30.0,0.0,100,100
+ML Engineer Candidate 1,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+ML Engineer Candidate 1,Cloud/DevOps Engineer,Mid-level,20.0,0.0,50,100
+ML Engineer Candidate 1,Software Engineer,Entry-level,30.0,0.0,100,100
+ML Engineer Candidate 2,Machine Learning Engineer,Mid-level,55.0,50.0,50,100
+ML Engineer Candidate 2,Data Scientist,Entry-level,30.0,0.0,100,100
+ML Engineer Candidate 2,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+ML Engineer Candidate 2,Cloud/DevOps Engineer,Mid-level,20.0,0.0,50,100
+ML Engineer Candidate 2,Software Engineer,Entry-level,30.0,0.0,100,100
+ML Engineer Candidate 3,Machine Learning Engineer,Mid-level,55.0,50.0,50,100
+ML Engineer Candidate 3,Data Scientist,Entry-level,30.0,0.0,100,100
+ML Engineer Candidate 3,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+ML Engineer Candidate 3,Cloud/DevOps Engineer,Mid-level,20.0,0.0,50,100
+ML Engineer Candidate 3,Software Engineer,Entry-level,30.0,0.0,100,100
+ML Engineer Candidate 4,Machine Learning Engineer,Mid-level,55.0,50.0,50,100
+ML Engineer Candidate 4,Data Scientist,Entry-level,30.0,0.0,100,100
+ML Engineer Candidate 4,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+ML Engineer Candidate 4,Cloud/DevOps Engineer,Mid-level,20.0,0.0,50,100
+ML Engineer Candidate 4,Software Engineer,Entry-level,30.0,0.0,100,100
+ML Engineer Candidate 5,Machine Learning Engineer,Mid-level,55.0,50.0,50,100
+ML Engineer Candidate 5,Data Scientist,Entry-level,30.0,0.0,100,100
+ML Engineer Candidate 5,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+ML Engineer Candidate 5,Cloud/DevOps Engineer,Mid-level,20.0,0.0,50,100
+ML Engineer Candidate 5,Software Engineer,Entry-level,30.0,0.0,100,100
+ML Engineer Candidate 6,Machine Learning Engineer,Mid-level,55.0,50.0,50,100
+ML Engineer Candidate 6,Data Scientist,Entry-level,30.0,0.0,100,100
+ML Engineer Candidate 6,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+ML Engineer Candidate 6,Cloud/DevOps Engineer,Mid-level,20.0,0.0,50,100
+ML Engineer Candidate 6,Software Engineer,Entry-level,30.0,0.0,100,100
+ML Engineer Candidate 7,Machine Learning Engineer,Mid-level,55.0,50.0,50,100
+ML Engineer Candidate 7,Data Scientist,Entry-level,30.0,0.0,100,100
+ML Engineer Candidate 7,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+ML Engineer Candidate 7,Cloud/DevOps Engineer,Mid-level,20.0,0.0,50,100
+ML Engineer Candidate 7,Software Engineer,Entry-level,30.0,0.0,100,100
+ML Engineer Candidate 8,Machine Learning Engineer,Mid-level,55.0,50.0,50,100
+ML Engineer Candidate 8,Data Scientist,Entry-level,30.0,0.0,100,100
+ML Engineer Candidate 8,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+ML Engineer Candidate 8,Cloud/DevOps Engineer,Mid-level,20.0,0.0,50,100
+ML Engineer Candidate 8,Software Engineer,Entry-level,30.0,0.0,100,100
+ML Engineer Candidate 9,Machine Learning Engineer,Mid-level,55.0,50.0,50,100
+ML Engineer Candidate 9,Data Scientist,Entry-level,30.0,0.0,100,100
+ML Engineer Candidate 9,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+ML Engineer Candidate 9,Cloud/DevOps Engineer,Mid-level,20.0,0.0,50,100
+ML Engineer Candidate 9,Software Engineer,Entry-level,30.0,0.0,100,100
+ML Engineer Candidate 10,Machine Learning Engineer,Mid-level,55.0,50.0,50,100
+ML Engineer Candidate 10,Data Scientist,Entry-level,30.0,0.0,100,100
+ML Engineer Candidate 10,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+ML Engineer Candidate 10,Cloud/DevOps Engineer,Mid-level,20.0,0.0,50,100
+ML Engineer Candidate 10,Software Engineer,Entry-level,30.0,0.0,100,100
+Cloud Engineer Candidate 1,Machine Learning Engineer,Mid-level,30.0,0.0,100,100
+Cloud Engineer Candidate 1,Data Scientist,Entry-level,30.0,0.0,100,100
+Cloud Engineer Candidate 1,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+Cloud Engineer Candidate 1,Cloud/DevOps Engineer,Mid-level,82.5,75.0,100,100
+Cloud Engineer Candidate 1,Software Engineer,Entry-level,30.0,0.0,100,100
+Cloud Engineer Candidate 2,Machine Learning Engineer,Mid-level,30.0,0.0,100,100
+Cloud Engineer Candidate 2,Data Scientist,Entry-level,30.0,0.0,100,100
+Cloud Engineer Candidate 2,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+Cloud Engineer Candidate 2,Cloud/DevOps Engineer,Mid-level,82.5,75.0,100,100
+Cloud Engineer Candidate 2,Software Engineer,Entry-level,30.0,0.0,100,100
+Cloud Engineer Candidate 3,Machine Learning Engineer,Mid-level,30.0,0.0,100,100
+Cloud Engineer Candidate 3,Data Scientist,Entry-level,30.0,0.0,100,100
+Cloud Engineer Candidate 3,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+Cloud Engineer Candidate 3,Cloud/DevOps Engineer,Mid-level,82.5,75.0,100,100
+Cloud Engineer Candidate 3,Software Engineer,Entry-level,30.0,0.0,100,100
+Cloud Engineer Candidate 4,Machine Learning Engineer,Mid-level,30.0,0.0,100,100
+Cloud Engineer Candidate 4,Data Scientist,Entry-level,30.0,0.0,100,100
+Cloud Engineer Candidate 4,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+Cloud Engineer Candidate 4,Cloud/DevOps Engineer,Mid-level,82.5,75.0,100,100
+Cloud Engineer Candidate 4,Software Engineer,Entry-level,30.0,0.0,100,100
+Cloud Engineer Candidate 5,Machine Learning Engineer,Mid-level,30.0,0.0,100,100
+Cloud Engineer Candidate 5,Data Scientist,Entry-level,30.0,0.0,100,100
+Cloud Engineer Candidate 5,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+Cloud Engineer Candidate 5,Cloud/DevOps Engineer,Mid-level,82.5,75.0,100,100
+Cloud Engineer Candidate 5,Software Engineer,Entry-level,30.0,0.0,100,100
+Cloud Engineer Candidate 6,Machine Learning Engineer,Mid-level,30.0,0.0,100,100
+Cloud Engineer Candidate 6,Data Scientist,Entry-level,30.0,0.0,100,100
+Cloud Engineer Candidate 6,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+Cloud Engineer Candidate 6,Cloud/DevOps Engineer,Mid-level,82.5,75.0,100,100
+Cloud Engineer Candidate 6,Software Engineer,Entry-level,30.0,0.0,100,100
+Cloud Engineer Candidate 7,Machine Learning Engineer,Mid-level,30.0,0.0,100,100
+Cloud Engineer Candidate 7,Data Scientist,Entry-level,30.0,0.0,100,100
+Cloud Engineer Candidate 7,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+Cloud Engineer Candidate 7,Cloud/DevOps Engineer,Mid-level,82.5,75.0,100,100
+Cloud Engineer Candidate 7,Software Engineer,Entry-level,30.0,0.0,100,100
+Cloud Engineer Candidate 8,Machine Learning Engineer,Mid-level,30.0,0.0,100,100
+Cloud Engineer Candidate 8,Data Scientist,Entry-level,30.0,0.0,100,100
+Cloud Engineer Candidate 8,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+Cloud Engineer Candidate 8,Cloud/DevOps Engineer,Mid-level,82.5,75.0,100,100
+Cloud Engineer Candidate 8,Software Engineer,Entry-level,30.0,0.0,100,100
+Cloud Engineer Candidate 9,Machine Learning Engineer,Mid-level,30.0,0.0,100,100
+Cloud Engineer Candidate 9,Data Scientist,Entry-level,30.0,0.0,100,100
+Cloud Engineer Candidate 9,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+Cloud Engineer Candidate 9,Cloud/DevOps Engineer,Mid-level,82.5,75.0,100,100
+Cloud Engineer Candidate 9,Software Engineer,Entry-level,30.0,0.0,100,100
+Cloud Engineer Candidate 10,Machine Learning Engineer,Mid-level,30.0,0.0,100,100
+Cloud Engineer Candidate 10,Data Scientist,Entry-level,30.0,0.0,100,100
+Cloud Engineer Candidate 10,Applied Scientist,PhD/Early Career,30.0,0.0,100,100
+Cloud Engineer Candidate 10,Cloud/DevOps Engineer,Mid-level,82.5,75.0,100,100
+Cloud Engineer Candidate 10,Software Engineer,Entry-level,30.0,0.0,100,100
+Applied Scientist Candidate 1,Machine Learning Engineer,Mid-level,47.5,25.0,100,100
+Applied Scientist Candidate 1,Data Scientist,Entry-level,47.5,25.0,100,100
+Applied Scientist Candidate 1,Applied Scientist,PhD/Early Career,47.5,25.0,100,100
+Applied Scientist Candidate 1,Cloud/DevOps Engineer,Mid-level,30.0,0.0,100,100
+Applied Scientist Candidate 1,Software Engineer,Entry-level,47.5,25.0,100,100
+Applied Scientist Candidate 2,Machine Learning Engineer,Mid-level,47.5,25.0,100,100
+Applied Scientist Candidate 2,Data Scientist,Entry-level,47.5,25.0,100,100
+Applied Scientist Candidate 2,Applied Scientist,PhD/Early Career,47.5,25.0,100,100
+Applied Scientist Candidate 2,Cloud/DevOps Engineer,Mid-level,30.0,0.0,100,100
+Applied Scientist Candidate 2,Software Engineer,Entry-level,47.5,25.0,100,100
+Applied Scientist Candidate 3,Machine Learning Engineer,Mid-level,47.5,25.0,100,100
+Applied Scientist Candidate 3,Data Scientist,Entry-level,47.5,25.0,100,100
+Applied Scientist Candidate 3,Applied Scientist,PhD/Early Career,47.5,25.0,100,100
+Applied Scientist Candidate 3,Cloud/DevOps Engineer,Mid-level,30.0,0.0,100,100
+Applied Scientist Candidate 3,Software Engineer,Entry-level,47.5,25.0,100,100
+Applied Scientist Candidate 4,Machine Learning Engineer,Mid-level,47.5,25.0,100,100
+Applied Scientist Candidate 4,Data Scientist,Entry-level,47.5,25.0,100,100
+Applied Scientist Candidate 4,Applied Scientist,PhD/Early Career,47.5,25.0,100,100
+Applied Scientist Candidate 4,Cloud/DevOps Engineer,Mid-level,30.0,0.0,100,100
+Applied Scientist Candidate 4,Software Engineer,Entry-level,47.5,25.0,100,100
+Applied Scientist Candidate 5,Machine Learning Engineer,Mid-level,47.5,25.0,100,100
+Applied Scientist Candidate 5,Data Scientist,Entry-level,47.5,25.0,100,100
+Applied Scientist Candidate 5,Applied Scientist,PhD/Early Career,47.5,25.0,100,100
+Applied Scientist Candidate 5,Cloud/DevOps Engineer,Mid-level,30.0,0.0,100,100
+Applied Scientist Candidate 5,Software Engineer,Entry-level,47.5,25.0,100,100
