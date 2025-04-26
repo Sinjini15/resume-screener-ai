@@ -1,0 +1,1097 @@
+[
+  {
+    "name": "SWE Candidate 1",
+    "email": "swe1@email.com",
+    "roles": [
+      "Software Engineer"
+    ],
+    "experience": [
+      {
+        "title": "Software Engineer Intern",
+        "company": "CompanyX",
+        "years": 1
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "AWS"
+    ],
+    "education": "B.S. in Computer Science, Some University, 2023",
+    "certifications": [],
+    "summary": "Software engineer with backend and cloud development experience.",
+    "target_role": "Software Engineer"
+  },
+  {
+    "name": "SWE Candidate 2",
+    "email": "swe2@email.com",
+    "roles": [
+      "Software Engineer"
+    ],
+    "experience": [
+      {
+        "title": "Software Engineer Intern",
+        "company": "CompanyX",
+        "years": 1
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "AWS"
+    ],
+    "education": "B.S. in Computer Science, Some University, 2023",
+    "certifications": [],
+    "summary": "Software engineer with backend and cloud development experience.",
+    "target_role": "Software Engineer"
+  },
+  {
+    "name": "SWE Candidate 3",
+    "email": "swe3@email.com",
+    "roles": [
+      "Software Engineer"
+    ],
+    "experience": [
+      {
+        "title": "Software Engineer Intern",
+        "company": "CompanyX",
+        "years": 1
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "AWS"
+    ],
+    "education": "B.S. in Computer Science, Some University, 2023",
+    "certifications": [],
+    "summary": "Software engineer with backend and cloud development experience.",
+    "target_role": "Software Engineer"
+  },
+  {
+    "name": "SWE Candidate 4",
+    "email": "swe4@email.com",
+    "roles": [
+      "Software Engineer"
+    ],
+    "experience": [
+      {
+        "title": "Software Engineer Intern",
+        "company": "CompanyX",
+        "years": 1
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "AWS"
+    ],
+    "education": "B.S. in Computer Science, Some University, 2023",
+    "certifications": [],
+    "summary": "Software engineer with backend and cloud development experience.",
+    "target_role": "Software Engineer"
+  },
+  {
+    "name": "SWE Candidate 5",
+    "email": "swe5@email.com",
+    "roles": [
+      "Software Engineer"
+    ],
+    "experience": [
+      {
+        "title": "Software Engineer Intern",
+        "company": "CompanyX",
+        "years": 1
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "AWS"
+    ],
+    "education": "B.S. in Computer Science, Some University, 2023",
+    "certifications": [],
+    "summary": "Software engineer with backend and cloud development experience.",
+    "target_role": "Software Engineer"
+  },
+  {
+    "name": "SWE Candidate 6",
+    "email": "swe6@email.com",
+    "roles": [
+      "Software Engineer"
+    ],
+    "experience": [
+      {
+        "title": "Software Engineer Intern",
+        "company": "CompanyX",
+        "years": 1
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "AWS"
+    ],
+    "education": "B.S. in Computer Science, Some University, 2023",
+    "certifications": [],
+    "summary": "Software engineer with backend and cloud development experience.",
+    "target_role": "Software Engineer"
+  },
+  {
+    "name": "SWE Candidate 7",
+    "email": "swe7@email.com",
+    "roles": [
+      "Software Engineer"
+    ],
+    "experience": [
+      {
+        "title": "Software Engineer Intern",
+        "company": "CompanyX",
+        "years": 1
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "AWS"
+    ],
+    "education": "B.S. in Computer Science, Some University, 2023",
+    "certifications": [],
+    "summary": "Software engineer with backend and cloud development experience.",
+    "target_role": "Software Engineer"
+  },
+  {
+    "name": "SWE Candidate 8",
+    "email": "swe8@email.com",
+    "roles": [
+      "Software Engineer"
+    ],
+    "experience": [
+      {
+        "title": "Software Engineer Intern",
+        "company": "CompanyX",
+        "years": 1
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "AWS"
+    ],
+    "education": "B.S. in Computer Science, Some University, 2023",
+    "certifications": [],
+    "summary": "Software engineer with backend and cloud development experience.",
+    "target_role": "Software Engineer"
+  },
+  {
+    "name": "SWE Candidate 9",
+    "email": "swe9@email.com",
+    "roles": [
+      "Software Engineer"
+    ],
+    "experience": [
+      {
+        "title": "Software Engineer Intern",
+        "company": "CompanyX",
+        "years": 1
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "AWS"
+    ],
+    "education": "B.S. in Computer Science, Some University, 2023",
+    "certifications": [],
+    "summary": "Software engineer with backend and cloud development experience.",
+    "target_role": "Software Engineer"
+  },
+  {
+    "name": "SWE Candidate 10",
+    "email": "swe10@email.com",
+    "roles": [
+      "Software Engineer"
+    ],
+    "experience": [
+      {
+        "title": "Software Engineer Intern",
+        "company": "CompanyX",
+        "years": 1
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "AWS"
+    ],
+    "education": "B.S. in Computer Science, Some University, 2023",
+    "certifications": [],
+    "summary": "Software engineer with backend and cloud development experience.",
+    "target_role": "Software Engineer"
+  },
+  {
+    "name": "DS Candidate 1",
+    "email": "ds1@email.com",
+    "roles": [
+      "Data Scientist"
+    ],
+    "experience": [
+      {
+        "title": "Data Analyst",
+        "company": "CompanyY",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning"
+    ],
+    "education": "M.S. in Data Science, Another University, 2024",
+    "certifications": [
+      "Google Data Analytics Professional Certificate"
+    ],
+    "summary": "Data scientist skilled in data analysis, machine learning, and statistical modeling.",
+    "target_role": "Data Scientist"
+  },
+  {
+    "name": "DS Candidate 2",
+    "email": "ds2@email.com",
+    "roles": [
+      "Data Scientist"
+    ],
+    "experience": [
+      {
+        "title": "Data Analyst",
+        "company": "CompanyY",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning"
+    ],
+    "education": "M.S. in Data Science, Another University, 2024",
+    "certifications": [
+      "Google Data Analytics Professional Certificate"
+    ],
+    "summary": "Data scientist skilled in data analysis, machine learning, and statistical modeling.",
+    "target_role": "Data Scientist"
+  },
+  {
+    "name": "DS Candidate 3",
+    "email": "ds3@email.com",
+    "roles": [
+      "Data Scientist"
+    ],
+    "experience": [
+      {
+        "title": "Data Analyst",
+        "company": "CompanyY",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning"
+    ],
+    "education": "M.S. in Data Science, Another University, 2024",
+    "certifications": [
+      "Google Data Analytics Professional Certificate"
+    ],
+    "summary": "Data scientist skilled in data analysis, machine learning, and statistical modeling.",
+    "target_role": "Data Scientist"
+  },
+  {
+    "name": "DS Candidate 4",
+    "email": "ds4@email.com",
+    "roles": [
+      "Data Scientist"
+    ],
+    "experience": [
+      {
+        "title": "Data Analyst",
+        "company": "CompanyY",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning"
+    ],
+    "education": "M.S. in Data Science, Another University, 2024",
+    "certifications": [
+      "Google Data Analytics Professional Certificate"
+    ],
+    "summary": "Data scientist skilled in data analysis, machine learning, and statistical modeling.",
+    "target_role": "Data Scientist"
+  },
+  {
+    "name": "DS Candidate 5",
+    "email": "ds5@email.com",
+    "roles": [
+      "Data Scientist"
+    ],
+    "experience": [
+      {
+        "title": "Data Analyst",
+        "company": "CompanyY",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning"
+    ],
+    "education": "M.S. in Data Science, Another University, 2024",
+    "certifications": [
+      "Google Data Analytics Professional Certificate"
+    ],
+    "summary": "Data scientist skilled in data analysis, machine learning, and statistical modeling.",
+    "target_role": "Data Scientist"
+  },
+  {
+    "name": "DS Candidate 6",
+    "email": "ds6@email.com",
+    "roles": [
+      "Data Scientist"
+    ],
+    "experience": [
+      {
+        "title": "Data Analyst",
+        "company": "CompanyY",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning"
+    ],
+    "education": "M.S. in Data Science, Another University, 2024",
+    "certifications": [
+      "Google Data Analytics Professional Certificate"
+    ],
+    "summary": "Data scientist skilled in data analysis, machine learning, and statistical modeling.",
+    "target_role": "Data Scientist"
+  },
+  {
+    "name": "DS Candidate 7",
+    "email": "ds7@email.com",
+    "roles": [
+      "Data Scientist"
+    ],
+    "experience": [
+      {
+        "title": "Data Analyst",
+        "company": "CompanyY",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning"
+    ],
+    "education": "M.S. in Data Science, Another University, 2024",
+    "certifications": [
+      "Google Data Analytics Professional Certificate"
+    ],
+    "summary": "Data scientist skilled in data analysis, machine learning, and statistical modeling.",
+    "target_role": "Data Scientist"
+  },
+  {
+    "name": "DS Candidate 8",
+    "email": "ds8@email.com",
+    "roles": [
+      "Data Scientist"
+    ],
+    "experience": [
+      {
+        "title": "Data Analyst",
+        "company": "CompanyY",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning"
+    ],
+    "education": "M.S. in Data Science, Another University, 2024",
+    "certifications": [
+      "Google Data Analytics Professional Certificate"
+    ],
+    "summary": "Data scientist skilled in data analysis, machine learning, and statistical modeling.",
+    "target_role": "Data Scientist"
+  },
+  {
+    "name": "DS Candidate 9",
+    "email": "ds9@email.com",
+    "roles": [
+      "Data Scientist"
+    ],
+    "experience": [
+      {
+        "title": "Data Analyst",
+        "company": "CompanyY",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning"
+    ],
+    "education": "M.S. in Data Science, Another University, 2024",
+    "certifications": [
+      "Google Data Analytics Professional Certificate"
+    ],
+    "summary": "Data scientist skilled in data analysis, machine learning, and statistical modeling.",
+    "target_role": "Data Scientist"
+  },
+  {
+    "name": "DS Candidate 10",
+    "email": "ds10@email.com",
+    "roles": [
+      "Data Scientist"
+    ],
+    "experience": [
+      {
+        "title": "Data Analyst",
+        "company": "CompanyY",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning"
+    ],
+    "education": "M.S. in Data Science, Another University, 2024",
+    "certifications": [
+      "Google Data Analytics Professional Certificate"
+    ],
+    "summary": "Data scientist skilled in data analysis, machine learning, and statistical modeling.",
+    "target_role": "Data Scientist"
+  },
+  {
+    "name": "ML Engineer Candidate 1",
+    "email": "ml1@email.com",
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "experience": [
+      {
+        "title": "ML Engineer Intern",
+        "company": "CompanyZ",
+        "years": 1
+      }
+    ],
+    "skills": [
+      "TensorFlow",
+      "PyTorch",
+      "Kubernetes"
+    ],
+    "education": "M.S. in Computer Engineering, Tech University, 2023",
+    "certifications": [
+      "AWS Certified Machine Learning Specialty"
+    ],
+    "summary": "ML engineer focused on model deployment and scalable training.",
+    "target_role": "ML Engineer"
+  },
+  {
+    "name": "ML Engineer Candidate 2",
+    "email": "ml2@email.com",
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "experience": [
+      {
+        "title": "ML Engineer Intern",
+        "company": "CompanyZ",
+        "years": 1
+      }
+    ],
+    "skills": [
+      "TensorFlow",
+      "PyTorch",
+      "Kubernetes"
+    ],
+    "education": "M.S. in Computer Engineering, Tech University, 2023",
+    "certifications": [
+      "AWS Certified Machine Learning Specialty"
+    ],
+    "summary": "ML engineer focused on model deployment and scalable training.",
+    "target_role": "ML Engineer"
+  },
+  {
+    "name": "ML Engineer Candidate 3",
+    "email": "ml3@email.com",
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "experience": [
+      {
+        "title": "ML Engineer Intern",
+        "company": "CompanyZ",
+        "years": 1
+      }
+    ],
+    "skills": [
+      "TensorFlow",
+      "PyTorch",
+      "Kubernetes"
+    ],
+    "education": "M.S. in Computer Engineering, Tech University, 2023",
+    "certifications": [
+      "AWS Certified Machine Learning Specialty"
+    ],
+    "summary": "ML engineer focused on model deployment and scalable training.",
+    "target_role": "ML Engineer"
+  },
+  {
+    "name": "ML Engineer Candidate 4",
+    "email": "ml4@email.com",
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "experience": [
+      {
+        "title": "ML Engineer Intern",
+        "company": "CompanyZ",
+        "years": 1
+      }
+    ],
+    "skills": [
+      "TensorFlow",
+      "PyTorch",
+      "Kubernetes"
+    ],
+    "education": "M.S. in Computer Engineering, Tech University, 2023",
+    "certifications": [
+      "AWS Certified Machine Learning Specialty"
+    ],
+    "summary": "ML engineer focused on model deployment and scalable training.",
+    "target_role": "ML Engineer"
+  },
+  {
+    "name": "ML Engineer Candidate 5",
+    "email": "ml5@email.com",
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "experience": [
+      {
+        "title": "ML Engineer Intern",
+        "company": "CompanyZ",
+        "years": 1
+      }
+    ],
+    "skills": [
+      "TensorFlow",
+      "PyTorch",
+      "Kubernetes"
+    ],
+    "education": "M.S. in Computer Engineering, Tech University, 2023",
+    "certifications": [
+      "AWS Certified Machine Learning Specialty"
+    ],
+    "summary": "ML engineer focused on model deployment and scalable training.",
+    "target_role": "ML Engineer"
+  },
+  {
+    "name": "ML Engineer Candidate 6",
+    "email": "ml6@email.com",
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "experience": [
+      {
+        "title": "ML Engineer Intern",
+        "company": "CompanyZ",
+        "years": 1
+      }
+    ],
+    "skills": [
+      "TensorFlow",
+      "PyTorch",
+      "Kubernetes"
+    ],
+    "education": "M.S. in Computer Engineering, Tech University, 2023",
+    "certifications": [
+      "AWS Certified Machine Learning Specialty"
+    ],
+    "summary": "ML engineer focused on model deployment and scalable training.",
+    "target_role": "ML Engineer"
+  },
+  {
+    "name": "ML Engineer Candidate 7",
+    "email": "ml7@email.com",
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "experience": [
+      {
+        "title": "ML Engineer Intern",
+        "company": "CompanyZ",
+        "years": 1
+      }
+    ],
+    "skills": [
+      "TensorFlow",
+      "PyTorch",
+      "Kubernetes"
+    ],
+    "education": "M.S. in Computer Engineering, Tech University, 2023",
+    "certifications": [
+      "AWS Certified Machine Learning Specialty"
+    ],
+    "summary": "ML engineer focused on model deployment and scalable training.",
+    "target_role": "ML Engineer"
+  },
+  {
+    "name": "ML Engineer Candidate 8",
+    "email": "ml8@email.com",
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "experience": [
+      {
+        "title": "ML Engineer Intern",
+        "company": "CompanyZ",
+        "years": 1
+      }
+    ],
+    "skills": [
+      "TensorFlow",
+      "PyTorch",
+      "Kubernetes"
+    ],
+    "education": "M.S. in Computer Engineering, Tech University, 2023",
+    "certifications": [
+      "AWS Certified Machine Learning Specialty"
+    ],
+    "summary": "ML engineer focused on model deployment and scalable training.",
+    "target_role": "ML Engineer"
+  },
+  {
+    "name": "ML Engineer Candidate 9",
+    "email": "ml9@email.com",
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "experience": [
+      {
+        "title": "ML Engineer Intern",
+        "company": "CompanyZ",
+        "years": 1
+      }
+    ],
+    "skills": [
+      "TensorFlow",
+      "PyTorch",
+      "Kubernetes"
+    ],
+    "education": "M.S. in Computer Engineering, Tech University, 2023",
+    "certifications": [
+      "AWS Certified Machine Learning Specialty"
+    ],
+    "summary": "ML engineer focused on model deployment and scalable training.",
+    "target_role": "ML Engineer"
+  },
+  {
+    "name": "ML Engineer Candidate 10",
+    "email": "ml10@email.com",
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "experience": [
+      {
+        "title": "ML Engineer Intern",
+        "company": "CompanyZ",
+        "years": 1
+      }
+    ],
+    "skills": [
+      "TensorFlow",
+      "PyTorch",
+      "Kubernetes"
+    ],
+    "education": "M.S. in Computer Engineering, Tech University, 2023",
+    "certifications": [
+      "AWS Certified Machine Learning Specialty"
+    ],
+    "summary": "ML engineer focused on model deployment and scalable training.",
+    "target_role": "ML Engineer"
+  },
+  {
+    "name": "Cloud Engineer Candidate 1",
+    "email": "cloud1@email.com",
+    "roles": [
+      "Cloud Engineer"
+    ],
+    "experience": [
+      {
+        "title": "Cloud Engineer",
+        "company": "CloudCorp",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Docker"
+    ],
+    "education": "B.S. in Information Technology, Cloud University, 2022",
+    "certifications": [
+      "AWS Certified Solutions Architect"
+    ],
+    "summary": "Cloud engineer specializing in AWS infrastructure and DevOps.",
+    "target_role": "Cloud Engineer"
+  },
+  {
+    "name": "Cloud Engineer Candidate 2",
+    "email": "cloud2@email.com",
+    "roles": [
+      "Cloud Engineer"
+    ],
+    "experience": [
+      {
+        "title": "Cloud Engineer",
+        "company": "CloudCorp",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Docker"
+    ],
+    "education": "B.S. in Information Technology, Cloud University, 2022",
+    "certifications": [
+      "AWS Certified Solutions Architect"
+    ],
+    "summary": "Cloud engineer specializing in AWS infrastructure and DevOps.",
+    "target_role": "Cloud Engineer"
+  },
+  {
+    "name": "Cloud Engineer Candidate 3",
+    "email": "cloud3@email.com",
+    "roles": [
+      "Cloud Engineer"
+    ],
+    "experience": [
+      {
+        "title": "Cloud Engineer",
+        "company": "CloudCorp",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Docker"
+    ],
+    "education": "B.S. in Information Technology, Cloud University, 2022",
+    "certifications": [
+      "AWS Certified Solutions Architect"
+    ],
+    "summary": "Cloud engineer specializing in AWS infrastructure and DevOps.",
+    "target_role": "Cloud Engineer"
+  },
+  {
+    "name": "Cloud Engineer Candidate 4",
+    "email": "cloud4@email.com",
+    "roles": [
+      "Cloud Engineer"
+    ],
+    "experience": [
+      {
+        "title": "Cloud Engineer",
+        "company": "CloudCorp",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Docker"
+    ],
+    "education": "B.S. in Information Technology, Cloud University, 2022",
+    "certifications": [
+      "AWS Certified Solutions Architect"
+    ],
+    "summary": "Cloud engineer specializing in AWS infrastructure and DevOps.",
+    "target_role": "Cloud Engineer"
+  },
+  {
+    "name": "Cloud Engineer Candidate 5",
+    "email": "cloud5@email.com",
+    "roles": [
+      "Cloud Engineer"
+    ],
+    "experience": [
+      {
+        "title": "Cloud Engineer",
+        "company": "CloudCorp",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Docker"
+    ],
+    "education": "B.S. in Information Technology, Cloud University, 2022",
+    "certifications": [
+      "AWS Certified Solutions Architect"
+    ],
+    "summary": "Cloud engineer specializing in AWS infrastructure and DevOps.",
+    "target_role": "Cloud Engineer"
+  },
+  {
+    "name": "Cloud Engineer Candidate 6",
+    "email": "cloud6@email.com",
+    "roles": [
+      "Cloud Engineer"
+    ],
+    "experience": [
+      {
+        "title": "Cloud Engineer",
+        "company": "CloudCorp",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Docker"
+    ],
+    "education": "B.S. in Information Technology, Cloud University, 2022",
+    "certifications": [
+      "AWS Certified Solutions Architect"
+    ],
+    "summary": "Cloud engineer specializing in AWS infrastructure and DevOps.",
+    "target_role": "Cloud Engineer"
+  },
+  {
+    "name": "Cloud Engineer Candidate 7",
+    "email": "cloud7@email.com",
+    "roles": [
+      "Cloud Engineer"
+    ],
+    "experience": [
+      {
+        "title": "Cloud Engineer",
+        "company": "CloudCorp",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Docker"
+    ],
+    "education": "B.S. in Information Technology, Cloud University, 2022",
+    "certifications": [
+      "AWS Certified Solutions Architect"
+    ],
+    "summary": "Cloud engineer specializing in AWS infrastructure and DevOps.",
+    "target_role": "Cloud Engineer"
+  },
+  {
+    "name": "Cloud Engineer Candidate 8",
+    "email": "cloud8@email.com",
+    "roles": [
+      "Cloud Engineer"
+    ],
+    "experience": [
+      {
+        "title": "Cloud Engineer",
+        "company": "CloudCorp",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Docker"
+    ],
+    "education": "B.S. in Information Technology, Cloud University, 2022",
+    "certifications": [
+      "AWS Certified Solutions Architect"
+    ],
+    "summary": "Cloud engineer specializing in AWS infrastructure and DevOps.",
+    "target_role": "Cloud Engineer"
+  },
+  {
+    "name": "Cloud Engineer Candidate 9",
+    "email": "cloud9@email.com",
+    "roles": [
+      "Cloud Engineer"
+    ],
+    "experience": [
+      {
+        "title": "Cloud Engineer",
+        "company": "CloudCorp",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Docker"
+    ],
+    "education": "B.S. in Information Technology, Cloud University, 2022",
+    "certifications": [
+      "AWS Certified Solutions Architect"
+    ],
+    "summary": "Cloud engineer specializing in AWS infrastructure and DevOps.",
+    "target_role": "Cloud Engineer"
+  },
+  {
+    "name": "Cloud Engineer Candidate 10",
+    "email": "cloud10@email.com",
+    "roles": [
+      "Cloud Engineer"
+    ],
+    "experience": [
+      {
+        "title": "Cloud Engineer",
+        "company": "CloudCorp",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Docker"
+    ],
+    "education": "B.S. in Information Technology, Cloud University, 2022",
+    "certifications": [
+      "AWS Certified Solutions Architect"
+    ],
+    "summary": "Cloud engineer specializing in AWS infrastructure and DevOps.",
+    "target_role": "Cloud Engineer"
+  },
+  {
+    "name": "Applied Scientist Candidate 1",
+    "email": "applied1@email.com",
+    "roles": [
+      "Applied Scientist"
+    ],
+    "experience": [
+      {
+        "title": "Research Assistant",
+        "company": "ResearchLab",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "Deep Learning",
+      "NLP",
+      "Python"
+    ],
+    "education": "Ph.D. in Machine Learning, Research University, 2025",
+    "certifications": [],
+    "summary": "Early-career applied scientist passionate about deploying robust AI models.",
+    "target_role": "Applied Scientist"
+  },
+  {
+    "name": "Applied Scientist Candidate 2",
+    "email": "applied2@email.com",
+    "roles": [
+      "Applied Scientist"
+    ],
+    "experience": [
+      {
+        "title": "Research Assistant",
+        "company": "ResearchLab",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "Deep Learning",
+      "NLP",
+      "Python"
+    ],
+    "education": "Ph.D. in Machine Learning, Research University, 2025",
+    "certifications": [],
+    "summary": "Early-career applied scientist passionate about deploying robust AI models.",
+    "target_role": "Applied Scientist"
+  },
+  {
+    "name": "Applied Scientist Candidate 3",
+    "email": "applied3@email.com",
+    "roles": [
+      "Applied Scientist"
+    ],
+    "experience": [
+      {
+        "title": "Research Assistant",
+        "company": "ResearchLab",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "Deep Learning",
+      "NLP",
+      "Python"
+    ],
+    "education": "Ph.D. in Machine Learning, Research University, 2025",
+    "certifications": [],
+    "summary": "Early-career applied scientist passionate about deploying robust AI models.",
+    "target_role": "Applied Scientist"
+  },
+  {
+    "name": "Applied Scientist Candidate 4",
+    "email": "applied4@email.com",
+    "roles": [
+      "Applied Scientist"
+    ],
+    "experience": [
+      {
+        "title": "Research Assistant",
+        "company": "ResearchLab",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "Deep Learning",
+      "NLP",
+      "Python"
+    ],
+    "education": "Ph.D. in Machine Learning, Research University, 2025",
+    "certifications": [],
+    "summary": "Early-career applied scientist passionate about deploying robust AI models.",
+    "target_role": "Applied Scientist"
+  },
+  {
+    "name": "Applied Scientist Candidate 5",
+    "email": "applied5@email.com",
+    "roles": [
+      "Applied Scientist"
+    ],
+    "experience": [
+      {
+        "title": "Research Assistant",
+        "company": "ResearchLab",
+        "years": 2
+      }
+    ],
+    "skills": [
+      "Deep Learning",
+      "NLP",
+      "Python"
+    ],
+    "education": "Ph.D. in Machine Learning, Research University, 2025",
+    "certifications": [],
+    "summary": "Early-career applied scientist passionate about deploying robust AI models.",
+    "target_role": "Applied Scientist"
+  }
+]
