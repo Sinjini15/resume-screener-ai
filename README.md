@@ -10,7 +10,7 @@ This project builds a full resume screening pipeline:
 - **Job Matching**: Matching resumes to multiple job descriptions using skills, experience, and education alignment.
 - **Feature Engineering**: Creation of nuanced raw signals (skills match %, experience matching, education evaluation).
 - **Model Training**: CatBoost Regressor trained on engineered features to predict match quality.
-- **Retrieval System** (Upcoming): Fast API service to retrieve top candidates for a given job query.
+- **Retrieval System**: Fast API service to retrieve top candidates for a given job query.
 
 ## 📈 Model Performance
 
@@ -101,6 +101,12 @@ docker-compose down
 * POST/retrieve
 Retrieve ranked resumes based on the given job description
 
+
+## Future extensions
+
+* Integrate LLMs to enhance semantic understanding of resumes and job descriptions
+
+* Use embeddings (e.g., OpenAI or HuggingFace models) for deeper feature extraction
 
 ✅ Fully modularized, production-ready codebase with clean separation of concerns.
 
