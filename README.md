@@ -12,6 +12,10 @@ This project builds a full resume screening pipeline:
 - **Model Training**: CatBoost Regressor trained on engineered features to predict match quality.
 - **Retrieval System**: Fast API service to retrieve top candidates for a given job query.
 
+## 🛠️ System Architecture
+
+![Overview of the system architecture](assets/system_overview.png)
+
 ## 📈 Model Performance
 
 - Model: **CatBoost Regressor**
