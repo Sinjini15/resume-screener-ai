@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  resume-screener-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: resume-screener-api
+    ports:
+      - "8000:8000"
+    restart: always
