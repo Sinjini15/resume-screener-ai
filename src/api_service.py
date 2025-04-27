@@ -2,7 +2,7 @@
 
 from fastapi import FastAPI
 from pydantic import BaseModel
-from retrieval_system import retrieve_top_n_resumes
+from src.retrieval_system import retrieve_top_n_resumes
 
 app = FastAPI(title="Resume Screener API", version="0.1")
 
