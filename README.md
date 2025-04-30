@@ -105,6 +105,9 @@ docker-compose down
 * POST/retrieve
 Retrieve ranked resumes based on the given job description
 
+## Current version
+
+Version 1.0: Transformer based resume screening pipeling. Implemented using Hugging Face pre-trained transformer
 
 ## Future extensions
 
