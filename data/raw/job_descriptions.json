@@ -1,0 +1,67 @@
+[
+  {
+    "role": "Machine Learning Engineer",
+    "level": "Mid-level",
+    "description": "We are seeking a Machine Learning Engineer to develop, deploy, and optimize ML models at scale. The ideal candidate has experience with deep learning frameworks, MLOps pipelines, and cloud platforms.",
+    "required_skills": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "AWS SageMaker"
+    ],
+    "min_experience_years": 2,
+    "education_requirement": "BS or MS in Computer Science or related field"
+  },
+  {
+    "role": "Data Scientist",
+    "level": "Entry-level",
+    "description": "Join our data science team to build predictive models, perform A/B testing, and generate actionable business insights. Great role for recent grads!",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "A/B Testing"
+    ],
+    "min_experience_years": 0,
+    "education_requirement": "BS or MS in a quantitative field"
+  },
+  {
+    "role": "Applied Scientist",
+    "level": "PhD/Early Career",
+    "description": "We are seeking an early-career Applied Scientist to advance natural language processing capabilities. PhD students and post-docs welcome.",
+    "required_skills": [
+      "Deep Learning",
+      "Transformers",
+      "BERT",
+      "GPT"
+    ],
+    "min_experience_years": 0,
+    "education_requirement": "Ph.D. in Computer Science, Machine Learning, or related field"
+  },
+  {
+    "role": "Cloud/DevOps Engineer",
+    "level": "Mid-level",
+    "description": "We are looking for a Cloud Engineer to build and maintain AWS-based infrastructure for scalable SaaS products.",
+    "required_skills": [
+      "AWS",
+      "Terraform",
+      "Docker",
+      "CI/CD"
+    ],
+    "min_experience_years": 2,
+    "education_requirement": "BS in Information Technology or related field"
+  },
+  {
+    "role": "Software Engineer",
+    "level": "Entry-level",
+    "description": "Seeking an enthusiastic backend engineer to join our engineering team. Work on API development, database management, and cloud deployment.",
+    "required_skills": [
+      "Python",
+      "Java",
+      "Flask",
+      "FastAPI"
+    ],
+    "min_experience_years": 0,
+    "education_requirement": "BS in Computer Science or related field"
+  }
+]
