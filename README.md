@@ -26,7 +26,7 @@ An LLM-powered resume screening tool that evaluates multiple resumes against a j
 
 ## 🖼️ System Architecture
 
-![System Diagram](assets\system_updated.png)
+![System Diagram](assets/system_updated.png)
 
 ---
 
