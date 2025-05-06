@@ -66,10 +66,10 @@ streamlit run app.py
 └── README.md
 ```
 ---
+## Old Implementation 
 
-## Old Implementation
+Used manual feature engineering (e.g. skills overlap, experience matching) to train a CatBoost regressor to predict match score. Still available in ```src/catboost_processing``` 
 
-Used manual feature engineering (e.g. skills overlap, experience matching) to train a CatBoost regressor to predict match score. Still available in ```src/catboost_processing```.
 ---
 
 ## ✅ To-Do
