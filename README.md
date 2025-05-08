@@ -71,6 +71,7 @@ You can generate a match score by:
 * Clicking 'match'
 
 Ensure the FastAPI backend is running by going to: ```http://localhost:8000/docs``` before engaging the Streamlit front-end
+
 ---
 
 ## 📁 Project Structure
