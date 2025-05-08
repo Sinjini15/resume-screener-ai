@@ -52,6 +52,27 @@ streamlit run app.py
 
 ---
 
+## 🧪 Front-end Streamlit UI
+
+Once the app is run locally the Streamlit UI can be accessed through: 
+
+```bash
+Local URL: http://localhost:8501
+Network URL: http://192.168.x.x:8501
+```
+The front-end should look like this:
+
+![Front end](assets/Streamlit.jpg)
+
+You can generate a match score by:
+
+* Uploading test resumes
+* Pasting the relevant JD in the text box
+* Clicking 'match'
+
+Ensure the FastAPI backend is running by going to: ```http://localhost:8000/docs``` before engaging the Streamlit front-end
+---
+
 ## 📁 Project Structure
 
 ```bash
